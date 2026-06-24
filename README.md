@@ -14,8 +14,8 @@ A documented walkthrough of setting up a penetration testing environment and exe
 - **Network**: Internal network for isolated lab environment
 
 ### Credentials
-- Kali: leo / cat!dog2max4lawn6
-- Metasploitable: msfadmin / msfadmin
+- Kali: credentials should never be posted, but ensure to change them from default credentials.
+- Metasploitable: credentials should never be posted, but ensure to change them from default credentials.
 
 ### Network Configuration
 
